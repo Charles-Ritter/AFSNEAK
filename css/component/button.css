@@ -1,0 +1,23 @@
+#btn1 {
+	border: 3px solid #EDEDED;
+	padding: 15px 20px;
+	color: white;
+	border-radius: 8px;
+	font-weight: bold;
+	font-family:'Lora', serif;
+	font-size: 45px;
+	margin-left: 15px;
+}
+.btn-blue {
+		padding: 15px;
+	border: 3px solid black; 
+	font-family: 'Roboto' , sans-serif;
+	color: black;
+	border-radius: 8px;
+}
+
+.btn-blue:hover {
+	background-color: Grey;
+	transition: 2s all;
+
+}
